@@ -1,15 +1,15 @@
 # Challenge-one
 
-**User story #1:** **Concept:** Frontend development, UI/UX, version control, project management.
+**User story #1:** **Home Page:** I creat a main page with a corresponding id="main-doc", which contains the page's main content 
 
-**User story #2:** **Technologies/stacks/tools:** HTML, CSS, Git, VsCode(any text editor), Pivotal tracker
+**User story #2:** **Menus:** different pages that make up website menu. linking up to different pages
 
-**User story #3:** **Challenges:** The challenge focuses on the fundamental aspects of HTML and CSS.
+**User story #3:**  **List items:** The .main-section elements contains at least 5 li items total (not each).
 
-**User story #4:**  **Learning outcome:** create and link HTML pages, use CSS to style the pages. 
+**User story #4:** **Headings:** The first element within each .main-section should be a header element which contains text that describes the topic of that section.
 
-**User story #5:** use Git and GitHub for version control and collaboration. 
+**User story #5:**  **Paragraphs:** The .main-page elements contains at least 10 p elements total (not each). 
 
-**User story #6:**  **Skill sessions:** Skill sessions this week will introduce version control with Git, Project management with pivotal tracker. General introduction to Html, CSS and how the two are used alongside each other for the frontend.  
+
 
 >Am expected to have submitted the challenge by the end of week. And also to have learnt to comfortably use a code editor>
