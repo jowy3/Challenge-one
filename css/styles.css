@@ -1,0 +1,51 @@
+Body{background-color:white;}
+
+#navbar{
+  background-color:white; width: 380px;
+ 
+  height:100%;
+  position: relative;
+  border-right: 1px solid;
+  
+  float: left;
+  }
+
+#nav-link ul{height:0px; }
+
+#nav-link li
+{background-color:rgb(13, 21, 36);
+border: 1px solid;
+color:bisque;
+list-style: none;
+width: 280px;
+height: 30px;
+top: 0px;
+left: 20px;
+padding-top: 0px;
+position: relative; right: 0px;
+ }
+ 
+ #nav-link a{
+  color:rgb(245, 184, 184);cursor: pointer;}
+  
+header{color:black;
+  font-size: 40px;
+  margin:10px;
+  text-align:center;
+  font-weight:thin;}
+ 
+  #main-doc header{
+    text-align:left;
+    margin:0px;
+  }
+    section li {
+      margin:15px 0px 0px 20px;}
+
+   #main-doc {position: relative;
+    margin-left:400px;
+    margin-top:5px;
+  }
+  section article{
+    color: #4d4e53;
+    margin:15px;
+    font-size:0.96em;}
